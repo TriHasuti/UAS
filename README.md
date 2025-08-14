@@ -32,10 +32,3 @@ Alasan: RFM adalah algoritma klasik dalam Customer Relationship Management (CRM)
 
 5. Visualization(Matplotlib Charting)
 Alasan: Memberikan insight visual yang lebih mudah dipahami oleh stakeholder dibanding hanya tabel angka.
-
-
-## Cara Menjalankan
-1. Pastikan `online_retail_II.xlsx` berada di root repo.
-2. Buka `analysis.ipynb` di Jupyter / VS Code.
-3. Jalankan sel dari atas ke bawah.
-4. Hasil akan tersimpan di folder `output/`.
